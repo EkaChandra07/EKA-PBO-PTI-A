@@ -1,0 +1,25 @@
+1. Apakah yang disebut dengan variabel instance dan lokal variabel? Jelaskan perbedaanya!
+JAWAB!
+
+Variabel Instance:
+Variabel instance adalah
+variabel yang dideklarasikan di dalam sebuah kelas dan
+nilainya unik untuk setiap objek atau instansi dari kelas tersebut.
+
+Variabel Lokal:
+Variabel lokal adalah
+variabel yang dideklarasikan di dalam sebuah fungsi atau blok kode dan
+hanya dapat diakses di dalam lingkup tersebut.
+
+nah lalu apasih perbedaanya?
+==>
+1.) Variabel instance dan variabel lokal memiliki cakupan yang berbeda:
+variabel instance berkaitan dengan objek dan
+berlaku di tingkat kelas, sementara variabel lokal berkaitan dengan fungsi atau blok kode dan
+hanya berlaku di dalam lingkup tersebut.
+
+2.) Variabel instance dapat diakses dari mana pun objek kelas tersebut diakses,
+sementara variabel lokal hanya dapat diakses di dalam fungsi atau blok kode tempat ia dideklarasikan.
+
+3.) Variabel instance unik untuk setiap objek dan berlaku di seluruh objek kelas,
+sedangkan variabel lokal hanya ada di lingkup tertentu tempat ia dideklarasikan.
