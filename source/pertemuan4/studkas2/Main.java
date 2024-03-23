@@ -13,6 +13,7 @@ public class Main {
         System.out.println(dosen.method1().nama);
         System.out.println(dosen.method1().NIDN);
 
+        dosen.mengajar(mhs, matkul);
 
         // Pak Afi mengajar Bocchi pada mata kuliah dengan kode CIE7004 dengan nama mata kuliah ASD yang memiliki bobot 3 sks
     }

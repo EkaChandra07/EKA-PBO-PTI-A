@@ -18,7 +18,7 @@ Berikut adalah requirement yang harus dipenuhi pada tugas lanjutan
 2. Tambahkan 3 method overload pada 1 class diagram yang telah kalian buat
 3. Tambahkan 1 method instans yang mengembalikan tipe data class itu sendiri pada 1 class diagram yang telah kalian buat
 4. Konversi semua class diagram ke dalam kodingan Java
-5. Buat 3 objek dari masing-masing class menggunakan constructor overloading
+5. Buat 3 objek dari 1 class menggunakan constructor overloading
 6. Pisahkan setiap class menjadi 1 file, jadi setiap 1 file java hanya boleh memiliki 1 class saja
 7. Panggil method overloading yang telah kalian buat dari 1 objek saja
 
