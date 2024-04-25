@@ -8,3 +8,4 @@ Repository ini menyimpan detail mengenai tugas yang akan diberikan dari asisten 
 #### 3. [Tugas 3 : Class Diagram](./Tugas3/README.md)
 #### 4. [Tugas 4 : Constructor, Instance Method & Method Overloading](./Tugas4/README.md)
 #### 5. [Tugas 5 : Encapsulation](./Tugas5/README.md)
+#### 6. [Tugas 6 : Inheritance](./Tugas6/README.md)
