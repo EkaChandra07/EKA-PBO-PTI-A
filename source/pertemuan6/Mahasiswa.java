@@ -11,7 +11,7 @@ public class Mahasiswa {
     }
 
     public Mahasiswa(String nama) {
-        this.nama = nama;.
+        this.nama = nama;
         tanggalLahir = "gak ada";
     }
 

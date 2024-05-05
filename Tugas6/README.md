@@ -37,12 +37,11 @@ git add .
 git commit -m "sambat2 dah wkwk"
 git push origin master
 ```
-- Buatlah video penjelasan mengenai class diagram yang kamu buat
+- Buatlah video penjelasan mengenai tugas yang sudah kalian kerjakan serta lakukan demo apabila percobaannya berbentuk kodingan
 - Maksimal durasi video 20 menit, apabila lebih dari 20 menit akan mengalami pengurangan nilai sebesar 1 poin per menit
 - Upload video penjelasan ke youtube dan batasi videonya hanya yang memiliki link yang dapat melihat
 
-## 👥 Contacts
-
+##
 Apabila masih kebingungan dengan tugas ini silahkan menghubungi asisten praktikum, ganbatee!!!
 
 ![gif](https://media1.tenor.com/m/3L3IbgFoAzMAAAAd/poniedzia%C5%82ek-znowu-poniedzia%C5%82ek.gif)
