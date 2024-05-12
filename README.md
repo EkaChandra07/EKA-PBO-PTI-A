@@ -9,3 +9,5 @@ Repository ini menyimpan detail mengenai tugas yang akan diberikan dari asisten 
 #### 4. [Tugas 4 : Constructor, Instance Method & Method Overloading](./Tugas4/README.md)
 #### 5. [Tugas 5 : Encapsulation](./Tugas5/README.md)
 #### 6. [Tugas 6 : Inheritance](./Tugas6/README.md)
+#### 7. [Tugas 7 : Polymorfisme](./Tugas7/README.md)
+#### 8. [Tugas 8 : Upcasting / Downcasting](./Tugas8/README.md)
